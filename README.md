@@ -1,1 +1,1 @@
-# NIFTY-Stock-Price-Prediction-using-Machine-Learning-Algorithms
+# Forecasting-NIFTY-Stock-Prices-Using-Machine-Learning-Algorithms
